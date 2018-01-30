@@ -1,0 +1,3 @@
+import pinkeys
+
+pinkeys.main()
