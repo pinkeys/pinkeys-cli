@@ -57,6 +57,8 @@ blabla_some_public_key_output_spilledhere
 ## Dev Build
 
 ```bash
-python setup.py bdist_wheel
-twine upload dist/*
+python3 -m venv venv
+. vent/bin/activate
+pip3 install -f requirements.txt
+python3 pinkeys
 ```
