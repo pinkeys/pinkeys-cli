@@ -1,4 +1,4 @@
-PINKEYS cli
+PINKEYS cli  ![alt build status](https://travis-ci.org/pinkeys/pinkeys-cli.svg?branch=master)
 =======================
 
 Share all your keys on a single platform.  PINKEYS is a directory that provides an easy way to create, share and use your everything keys.
