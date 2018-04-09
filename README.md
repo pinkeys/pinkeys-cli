@@ -1,4 +1,4 @@
-# PINKEYS-cli
+# PINKEYS-cli  ![alt build status](https://travis-ci.org/pinkeys/pinkeys-cli.svg?branch=master)
 
 ## Project Definition
 
