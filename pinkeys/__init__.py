@@ -44,6 +44,8 @@ def main(user: 'The www.pinkey.com username'=' ',
             else:  # Otherwise print to screen
                 print(user['value'])
 
+        return user
+
     else:
         # print(u'Server Error:' + str(pinkey_response.status_code) + '\n')
         sys.stderr.write(u'Unable to get the public key requested.\n')
